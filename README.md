@@ -9,8 +9,6 @@ Este projeto utiliza técnicas de **Machine Learning** para prever o consumo de 
   - `processed/`: Dados limpos e pré-processados.
 - **notebooks/**: Jupyter notebook usado.
 - **models/**: Modelos treinados em diferentes algoritmos.
-- **scripts/**: Scripts Python para processamento e treinamento dos modelos.
-- **reports/**: Gráficos e relatórios gerados durante o projeto.
   
 ## Modelos Usados
 
